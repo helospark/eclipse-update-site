@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Kubernetes manifest editor" url="http://helospark.com/eclipse_plugin/KubeEditorPlugin/">
+      Kubernetes manifest editor
+   </description>
+   <feature url="features/com.helospark.KubeEditorFeature_0.0.2.201907131232.jar" id="com.helospark.KubeEditorFeature" version="0.0.2.201907131232">
+      <category name="SparkTools"/>
+   </feature>
+   <category-def name="SparkTools" label="SparkTools"/>
+</site>
